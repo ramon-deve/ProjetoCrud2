@@ -6,7 +6,7 @@ class Banco():
             host="localhost",
             user="root",
             password="root",
-            database="joaosantos_db"
+            database="ramon_benites_db"
         )
         self.create.Table()
     def createTable(self):
